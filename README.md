@@ -5,10 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I'm a computer science student with intereses in machine learning and data
+I'm a computer science student with intereses cibersecurity
 
 * 🌍  I'm based in El Salvador
-* 🖥️  See my portfolio at [Portafolio](http://xrportillo.com)
 * ✉️  You can contact me at [micapor5@gmail.com](mailto:micapor5@gmail.com)
 * 🧠  I'm currently learning Machine learning
 * 👥  I'm looking to collaborate on Whatever project with ambitious
